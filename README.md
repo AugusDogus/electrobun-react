@@ -112,7 +112,7 @@ When you're ready to distribute your app:
 
 ## Learn More
 
-- [Electrobun Documentation](https://docs.electrobun.dev) - Learn about desktop app development
+- [Electrobun Documentation](https://electrobun.dev/docs/guides/getting-started) - Learn about desktop app development
 - [React Documentation](https://react.dev) - Learn React fundamentals and advanced patterns
 - [Bun Documentation](https://bun.sh/docs) - Explore Bun's features and capabilities
 
