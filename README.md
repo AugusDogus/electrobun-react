@@ -1,13 +1,15 @@
-# Electrobun Hello World
+# Electrobun React Template
 
-A simple Electrobun app to get you started with the framework.
+A modern React-powered desktop application template built with Electrobun
 
 ## What You'll See
 
-This hello world app demonstrates:
-- **Native Window**: A cross-platform desktop window
-- **Web-based UI**: Modern HTML, CSS, and JavaScript interface
-- **Simple Architecture**: Clean separation between Bun process and UI
+This template demonstrates:
+- **React 18**: Modern React with hooks, state management, and TypeScript
+- **Native Desktop**: Cross-platform desktop window with native performance
+- **Interactive Components**: Counter, todo list, and real-time clock examples
+- **Modern Development**: Hot module replacement and fast Bun runtime
+- **Clean Architecture**: Separation between main process and React UI
 
 ## Getting Started
 
@@ -31,27 +33,19 @@ This hello world app demonstrates:
 ```
 src/
 ├── bun/
-│   └── index.ts      # Main process - creates and manages windows
+│   └── index.ts           # Main process - creates and manages windows
 └── mainview/
-    ├── index.html    # Your app's UI
-    ├── index.css     # Styles
-    └── index.ts      # View logic
+   ├── App.tsx             # Main React component
+   ├── components/
+   │   └── FeatureDemo.tsx # Interactive React demo component
+   ├── index.html          # HTML template
+   ├── index.css           # Global styles
+   └── index.tsx           # React app entry point
 ```
 
-## Next Steps
+## Tech Stack
 
-Ready to build something more complex? Check out:
-
-- **[Documentation](https://docs.electrobun.dev)** - Learn about all Electrobun features
-- **[Examples](https://github.com/blackboardsh/electrobun/tree/main/playground)** - See advanced features like RPC, menus, and system tray
-- **[GitHub](https://github.com/blackboardsh/electrobun)** - Star the repo and join the community
-
-### Add More Features
-
-Want to extend this app? Try adding:
-- RPC communication between Bun and webview
-- Native menus and system tray
-- File dialogs and system integration
-- Multiple windows and views
-
-Happy building! 🚀
+- **[Electrobun](https://electrobun.dev)** - Desktop app framework
+- **[React 18](https://react.dev)** - Modern UI library with hooks
+- **[TypeScript](https://typescriptlang.org)** - Type-safe JavaScript
+- **[Bun](https://bun.sh)** - Lightning-fast all-in-one JavaScript runtime, bundler, test runner, and package manager
