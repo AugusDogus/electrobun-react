@@ -1,7 +1,7 @@
 export default {
   app: {
-    name: 'electrobun-next',
-    identifier: 'electrobun-next',
+    name: 'electrobun-react',
+    identifier: 'electrobun-react',
     version: '0.0.1',
   },
   build: {

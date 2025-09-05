@@ -1,7 +1,7 @@
 {
-  "name": "electrobun-next",
+  "name": "electrobun-react",
   "version": "1.0.0",
-  "description": "A modern Electrobun app with React integration",
+  "description": "A modern React-powered Electrobun desktop application",
   "scripts": {
     "dev": "electrobun dev",
     "build": "electrobun build",

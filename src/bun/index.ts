@@ -2,7 +2,7 @@ import { BrowserWindow } from "electrobun/bun";
 
 // Create the main application window
 const mainWindow = new BrowserWindow({
-  title: "Hello Electrobun!",
+  title: "Electrobun React App",
   url: "views://mainview/index.html",
   frame: {
     width: 800,
@@ -12,4 +12,4 @@ const mainWindow = new BrowserWindow({
   },
 });
 
-console.log("Hello Electrobun app started!");
+console.log("Electrobun React app started!");

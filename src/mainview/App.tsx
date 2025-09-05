@@ -6,9 +6,9 @@ const App: React.FC = () => {
 
   return (
     <div className="container">
-      <h1>Hello Electrobun + React! 🎉⚛️</h1>
+              <h1>Electrobun React App 🎉⚛️</h1>
       <p className="subtitle">
-        A fast, cross-platform desktop app framework with modern React
+        Modern React development meets native desktop power
       </p>
 
       <div className="welcome-section">
