@@ -1,6 +1,6 @@
 # create-electrobun-react
 
-> **IMPORTANT**  
+> [!IMPORTANT]  
 > This repository is still very much in progress. Expect breaking changes and incomplete features as development continues.
 
 A starter template for building desktop applications with Electrobun and React. It provides a solid foundation with modern tooling and best practices out of the box.
